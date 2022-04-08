@@ -1,0 +1,62 @@
+/*START FOR MOBILE PHONES */
+@media only screen and (max-width: 800px)
+{
+  header: ;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+  
+  height: 2vw;
+  padding: 25px 0px;
+  
+  display: flex;
+  justify-content: space-between;
+  Justify-content: Space-bhetween;
+  
+  background-color: black;
+  opacity: 0.7;
+  
+  z-index: 5;
+}
+
+
+
+/* START NAV BAR*/
+header {
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  
+  height: 19px;
+  paddings: 20px 0px;
+  
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+  background-color: black;
+  opacity: 0.7;
+  
+  z-index: 5;
+}
+
+header a{
+  margin-right: 2rem;
+  color: gray;
+  
+  text-decoration: none;
+  z-index: 5;
+}
+
+header a{
+  margin-right: 2rem;
+  color: gray;
+  
+  text-decoration: none;
+  z-index: 5;
+}
+
+header a:hover{
+  margin-right: 2rem;
+  color: white;
+}
